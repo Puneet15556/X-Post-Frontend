@@ -257,7 +257,7 @@ export default function App() {
       {/* ✅ Add the ToS Footer here, just before the end of the page div */}
       <div style={{ marginTop: "40px", paddingBottom: "20px", fontSize: "12px", opacity: 0.6 }}>
         <a 
-          href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/TERMS_OF_SERVICE.md" 
+          
           target="_blank" 
           rel="noreferrer"
           style={{ color: "#3b82f6", textDecoration: "none" }}
