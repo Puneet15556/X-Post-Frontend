@@ -16,7 +16,7 @@ export async function startPost(topic, userKeys) {
   // We use the 'userKeys' passed from App.jsx instead.
   
   try {
-    const res = await fetch(`${API_BASE}/generate/`, {
+    const res = await fetch(`${API_BASE}/generate`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
