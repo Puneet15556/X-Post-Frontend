@@ -2,7 +2,7 @@
 
 A production-ready web application that generates, searches, and resumes X (Twitter) posts using AI-powered workflows.
 
-🔗 **Live App**: https://x-post-frontend-iota.vercel.app  
+🔗 **Live App**: https://x-post-frontend-iota.vercel.app 
 
 
 ---
@@ -39,7 +39,7 @@ A production-ready web application that generates, searches, and resumes X (Twit
 ---
 
 ## 🔑 Environment Variables
-VITE_API_BASE_URL=https://x-post-backend.onrender.com
+VITE_API_BASE_URL= .onrender.com
 
 
 ## 🚦 Error Handling
